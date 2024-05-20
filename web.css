@@ -44,10 +44,10 @@ body{
 }
 .darktheme{
     position: absolute;
-    width: 8%;
-    height: 8%;
+    width: 7.5%;
+    height: 7.5%;
     margin-top: 1.1%;
-    margin-right: 48%;
+    margin-right: 50%;
     background-color: transparent;
     border: 0;
     right: 0;
